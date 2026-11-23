@@ -9,7 +9,7 @@ Matías Lazo Núñez · Esteban Alonso Toloza Araneda · Abraham Becerra Muñoz.
 React 19, Vite, React Router, React Bootstrap y Bootstrap. `src/App.jsx` define rutas públicas y protegidas; `src/context/AuthContext.jsx` gestiona token y usuario en `localStorage` y consulta `/api/v1/auth/perfil` tras recargar. `src/services/api.js` centraliza peticiones HTTP.
 
 ## Backend asociado
-**Repositorio público del backend: PENDIENTE DE CREAR / PEGAR URL REAL.** No se inventó un enlace.
+**Repositorio público del backend: https://github.com/abbecerra/NutriVida-Backend
 Repositorio conjunto de origen: https://github.com/matias-nu/NutriVida.P2
 
 Swagger del backend, según IP elástica informada por el equipo: http://54.243.53.206:3001/api-docs/
